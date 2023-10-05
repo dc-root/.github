@@ -2,6 +2,8 @@
 
 Aqui compartilho meu trabalho e projetos pessoais relacionados ao curso de Análise e Desenvolvimento de Sistemas e meu aprendizado em programação.
 
+![banner](../NUX_Octodex.gif)
+
 ## O que Você Encontrará Aqui
 
 - 📚 **Atividades do Curso**: Projetos e atividades relacionados ao meu curso, incluindo exercícios, trabalhos e estudos.
