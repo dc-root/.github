@@ -21,5 +21,4 @@ Você pode me encontrar nas seguintes redes sociais:
 - [GitHub](https://github.com/dc7devs)
 - [LinkedIn](https://www.linkedin.com/in/diego-c-silva-487b171a5)
 - [Twitter](https://twitter.com/dcdevs)
-- [whatsapp](https://wa.me/5538999574384)
 
